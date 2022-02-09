@@ -17,7 +17,6 @@ body{
 #logo{
 	
 	margin-top:20px;
-	
 	height:38px;
 	width:500px;
 }
@@ -134,3 +133,20 @@ body{
      
 	
 }
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+  }
+  footer .footerLinks ul{
+	list-style-type: none;  
+	padding-bottom:5px;
+  }
+  footer .footerLinks ul li{  
+	 float: left;
+  }
+  footer .footerLinks ul li a{ 
+	  padding: 16px;
+	  text-decoration: none;
+  }
